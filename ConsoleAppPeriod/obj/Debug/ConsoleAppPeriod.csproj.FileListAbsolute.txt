@@ -1,0 +1,11 @@
+G:\2022-2023\МДК 02.02\ConsoleAppPeriod\bin\Debug\ConsoleAppPeriod.exe.config
+G:\2022-2023\МДК 02.02\ConsoleAppPeriod\bin\Debug\ConsoleAppPeriod.exe
+G:\2022-2023\МДК 02.02\ConsoleAppPeriod\bin\Debug\ConsoleAppPeriod.pdb
+G:\2022-2023\МДК 02.02\ConsoleAppPeriod\bin\Debug\SF2022User00Lib.dll
+G:\2022-2023\МДК 02.02\ConsoleAppPeriod\bin\Debug\SF2022User00Lib.pdb
+G:\2022-2023\МДК 02.02\ConsoleAppPeriod\obj\Debug\ConsoleAppPeriod.csproj.AssemblyReference.cache
+G:\2022-2023\МДК 02.02\ConsoleAppPeriod\obj\Debug\ConsoleAppPeriod.csproj.SuggestedBindingRedirects.cache
+G:\2022-2023\МДК 02.02\ConsoleAppPeriod\obj\Debug\ConsoleAppPeriod.csproj.CoreCompileInputs.cache
+G:\2022-2023\МДК 02.02\ConsoleAppPeriod\obj\Debug\ConsoleAppPeriod.csproj.CopyComplete
+G:\2022-2023\МДК 02.02\ConsoleAppPeriod\obj\Debug\ConsoleAppPeriod.exe
+G:\2022-2023\МДК 02.02\ConsoleAppPeriod\obj\Debug\ConsoleAppPeriod.pdb
