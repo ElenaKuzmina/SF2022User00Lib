@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using static System.Net.Mime.MediaTypeNames;
 
 namespace SF2022User00Lib
 {
@@ -24,10 +25,11 @@ namespace SF2022User00Lib
             while (i < endWorkingTime)
             { 
                 TimeSpan ts = TimeSpan.FromMinutes(consultationTime);
-                string period = $"{i}-{i + ts}";
+
+                string period = $"{i.ToString().Substring(0, i.ToString().Length - 3)}-{(i + ts).ToString().Substring(0, (i+ts).ToString().Length - 3)}";
                 periods[j] = period;
                 j++;
-                i = i+ ts;
+                i = i + ts;
             }
             return periods;
         }
